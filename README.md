@@ -1,7 +1,3 @@
-D'accord ! Voici une version corrigée de ton profil GitHub sans mention de QLIO :  
-
----
-
 ## ✨ Chloé Maurer  
 
 🎨 Passionnée par le graphisme, la technologie et le développement, j’aime explorer de nouveaux outils et perfectionner mes compétences en conception et programmation.  
@@ -24,16 +20,8 @@ D'accord ! Voici une version corrigée de ton profil GitHub sans mention de QLIO
 
 💡 Toujours en quête d’apprentissage et de nouvelles expériences !  
 
-📫 **Me contacter** : [Ajoute un moyen de contact si besoin]  
+📫 **Me contacter** : chloe29.maurer@gmail.com   
 
----
-
-Si tu veux ajouter ou modifier quelque chose, dis-moi ! 😊
-
-<!--
-**chloemaurer/chloemaurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
